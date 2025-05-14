@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nguyenvanduocit-all-in-one-model-context-protocol-badge.png)](https://mseep.ai/app/nguyenvanduocit-all-in-one-model-context-protocol)
+
 # THE PROJECT IS MOVED
 
 THE PROJECT HAS BEEN SPLIT AND MOVED TO INDIVIDUAL REPOSITORIES.
